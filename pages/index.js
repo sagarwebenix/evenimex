@@ -11,7 +11,7 @@ const Home = (props) => {
     return ( <
         MainLayout >
         <
-        h1 > Test < /h1> < /
+        h1 > < /h1> < /
         MainLayout >
     );
 };
